@@ -3,7 +3,7 @@ class PiAgent < Formula
   homepage "https://github.com/qschen86/pi-agent"
   url "https://github.com/qschen86/pi-agent/releases/download/v0.1.1/pi-agent-0.1.1-macos-arm64.tar.gz"
   version "0.1.1"
-  sha256 "c85e64ea75edd423070d2c3ddd0bb8ccab9c18b3c53f8c8a5c2815abf2c2145f"
+  sha256 "57072576d7f67cbffc90681392687a03490666dfab2c26c234cda346094f31c8"
   license "MIT"
 
   depends_on arch: :arm64
