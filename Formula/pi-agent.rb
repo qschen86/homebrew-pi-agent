@@ -1,9 +1,9 @@
 class PiAgent < Formula
   desc "Self-hosted local AI workspace"
   homepage "https://github.com/qschen86/pi-agent"
-  url "https://github.com/qschen86/pi-agent/releases/download/v0.1.0/pi-agent-0.1.0-macos-arm64.tar.gz"
-  version "0.1.0"
-  sha256 "b5236c453f07abeb79fa99425c8cd6681f033bbcd71f4ef491925a27a89ef4c8"
+  url "https://github.com/qschen86/pi-agent/releases/download/v0.1.1/pi-agent-0.1.1-macos-arm64.tar.gz"
+  version "0.1.1"
+  sha256 "c85e64ea75edd423070d2c3ddd0bb8ccab9c18b3c53f8c8a5c2815abf2c2145f"
   license "MIT"
 
   depends_on arch: :arm64
